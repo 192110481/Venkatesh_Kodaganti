@@ -1,63 +1,89 @@
-<h1 align="center">👋 Hi, I'm Venkatesh Kodaganti</h1>
-<h3 align="center">Aspiring Software Developer | AI/ML Enthusiast | Web Developer</h3>
+🌟 Hi, I'm Venkatesh Kodaganti!
+👨‍💻 Software Developer | Java | Web Development | SQL
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=192110481&label=Profile%20Views&color=blue&style=flat" alt="views" /> </p>
+🚀 About Me
 
----
+🎓 Final-year Computer Science Engineering student
 
-### 🧠 About Me  
-🎓 Final-year **Bachelor of Engineering in Computer Science and Engineering** student passionate about developing innovative software solutions and intelligent systems.  
-💡 I enjoy combining creativity and technology to solve real-world problems efficiently.  
+💡 Passionate about Java Development, Frontend Development, and Full-Stack Projects
 
----
+⚙️ Skilled in building scalable, efficient, and user-focused applications
 
-### 🎯 Career Objective  
-To utilize my technical skills in **Java, SQL, and AI/ML** to contribute as a **Software Developer** or **Machine Learning Engineer**, while continuously learning and growing in the field of technology.  
+📘 Currently learning React JS
 
----
+🚀 Aiming to grow as a Software Developer / Java Developer / Full Stack Developer
 
-### 💻 Technical Skills  
+🧰 Languages & Tools
+Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql" /> </p>
+Frameworks & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=react,git,github,vscode,mysql,netlify" /> </p>
+🛠️ Projects
+🎵 1. Tuneria – Web-based Music & Movie Streaming Platform
 
-| Category | Skills |
-|-----------|--------|
-| **Languages** | Java, Python, SQL |
-| **Web Technologies** | HTML, CSS |
-| **AI/ML Tools** | CNN, OpenCV, Streamlit |
-| **Databases** | MySQL |
-| **Development Tools** | VS Code, IntelliJ IDEA, Jupyter Notebook, Git, GitHub |
+🔗 https://tuneria.netlify.app
 
----
+Built with HTML, CSS, JS
 
-### 🧩 Projects  
-- 🧠 **Automated Attendance System using CNN** — Built a deep learning-based attendance system using facial recognition.  
-- ✋ **Smart Sign Language Gloves** — Developed an IoT-based system that converts gestures to text and speech.  
-- 🔄 **VersaTurn – Multi-Functional Turntable** — Designed a rotating system for pottery, product display, and cake decoration.  
+Authentication system (Login, Signup, OTP, Reset Password)
 
----
+Fully responsive, clean UI
 
-### 🌱 Currently Learning  
-- Advanced **Web Technologies** (JavaScript, React)  
-- **AI Model Optimization** and Deployment  
+📚 2. Student Management System – Java Swing Application
 
----
+🔗 https://github.com/192110481/Student-Management-System
 
-### 📊 GitHub Stats  
+CRUD operations
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=192110481&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=192110481&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+GUI built using Swing
 
----
+Demonstrates OOP & event-handling
 
-### 🤝 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/kodaganti-venkatesh-4a5018230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kodagantivenkatesh2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+🔄 3. VersaTurn Table – Multi-purpose Smart Turntable
 
----
+Used for pottery, cake decorating, product display
 
-⭐ **"Innovation with purpose — inspired by Ratan Tata."**
+Motor automation + hardware integration
+
+Team-based engineering project
+
+💼 Internship Experience
+AI/Data Science Intern – EDU TANTR Ventures Pvt. Ltd.
+
+📆 May–July 2025
+
+Worked on real-time data projects
+
+Improved analytical skills
+
+Developed strong teamwork & communication
+
+🎓 Certifications
+
+✔ Infosys Springboard – Core Java
+
+✔ Sololearn – Introduction to Java
+
+📘 Currently Learning – React JS (Udemy)
+
+📈 GitHub Stats
+<p align="left"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=192110481&show_icons=true&theme=react" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=192110481&layout=compact&theme=react" /> </p>
+🔥 GitHub Streak Stats
+<p align="left"> <img height="170" src="https://streak-stats.demolab.com?user=192110481&theme=react" /> </p>
+📊 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=192110481&theme=react-dark&hide_border=true" /> </p>
+📫 Connect With Me
+<p align="left"> <a href="https://linkedin.com/in/kodaganti-venkatesh-4a5018230"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/192110481"><img src="https://skillicons.dev/icons?i=github" /></a> </p>
+🎯 What I’m Focusing On Right Now
+
+Learning React JS
+
+Building portfolio projects
+
+Preparing for Java/Web Developer roles
+
+Improving DSA & problem-solving
+
+💬 Fun Fact
+
+I enjoy learning new skills, building real-world projects, and pushing myself forward every day 🚀
