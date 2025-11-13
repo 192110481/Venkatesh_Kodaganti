@@ -1,6 +1,6 @@
 🌟 Hi, I'm Venkatesh Kodaganti!
 👨‍💻 Software Developer | Java | Web Development | SQL
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=192110481&label=Profile%20Views&color=blue&style=flat" alt="views" /> </p>
+
 🚀 About Me
 
 🎓 Final-year Computer Science Engineering student
